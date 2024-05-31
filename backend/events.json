@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Test","image":"https://www.elementalproduction.com/wp-content/uploads/2021/05/corporate-events.jpg","date":"2024-06-01","description":"Another event","id":"94dcd10a-a38a-45d3-bd71-f8315f482b9b"},{"title":"Title One","image":"https://www.elementalproduction.com/wp-content/uploads/2021/05/corporate-events.jpg","date":"2024-06-01","description":"Events ","id":"60e75301-5033-494f-abc0-89f4dcb411b3"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
